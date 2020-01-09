@@ -1,0 +1,52 @@
+{
+  "name": "Lambelcebur/doctrine-orm-resources",
+  "description": "DoctrineORM Resources to Lam",
+  "keywords": [
+    "Doctrine",
+    "ORM",
+    "ORM Entity Traits",
+    "Gedmo",
+    "Sortable",
+    "Timestampable",
+    "Translatable",
+    "Listener",
+    "Query",
+    "Repository",
+    "Validator",
+    "Zend",
+    "Lam",
+    "Tools"
+  ],
+  "type": "library",
+  "require": {
+    "php": "^7.1",
+    "doctrine/doctrine-module": "2.*",
+    "doctrine/doctrine-orm-module": "2.*",
+    "creof/doctrine2-spatial": "^1.0",
+    "beberlei/doctrineextensions": "^1.0",
+    "gedmo/doctrine-extensions": "2.*|3.*",
+    "laminas/laminas-form": "^2.0"
+  },
+  "suggest": {
+    "Lambelcebur/doctrine-orm-fast-api": "Quickly create an automatic API CRUD with your Doctrine ORM connection",
+    "Lambelcebur/materialize-css-helper": "MaterializeCss Helper integration to Lam",
+    "Lambelcebur/mongodb-logger": "MongoDb Logger integration to Lam",
+    "Lambelcebur/oauth2-social-client": "Lam extends module from thephpleague/oauth2-client",
+    "Lambelcebur/mvc-basic-tools": "Lam tools for controllers,views,helpers, plugins and more ...",
+    "nesbot/carbon": "A API extension for DateTime that supports 281 different languages."
+  },
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "David Garcia",
+      "email": "garcia.gordo.david@gmail.com",
+      "homepage": "https://github.com/Belcebur"
+    }
+  ],
+  "minimum-stability": "stable",
+  "autoload": {
+    "psr-4": {
+      "LamBelcebur\\DoctrineORMResources\\": "src/"
+    }
+  }
+}
