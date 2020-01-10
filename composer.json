@@ -1,5 +1,5 @@
 {
-  "name": "Lambelcebur/doctrine-orm-resources",
+  "name": "lambelcebur/doctrine-orm-resources",
   "description": "DoctrineORM Resources to Lam",
   "keywords": [
     "Doctrine",
@@ -28,11 +28,11 @@
     "laminas/laminas-form": "^2.0"
   },
   "suggest": {
-    "Lambelcebur/doctrine-orm-fast-api": "Quickly create an automatic API CRUD with your Doctrine ORM connection",
-    "Lambelcebur/materialize-css-helper": "MaterializeCss Helper integration to Lam",
-    "Lambelcebur/mongodb-logger": "MongoDb Logger integration to Lam",
-    "Lambelcebur/oauth2-social-client": "Lam extends module from thephpleague/oauth2-client",
-    "Lambelcebur/mvc-basic-tools": "Lam tools for controllers,views,helpers, plugins and more ...",
+    "lambelcebur/doctrine-orm-fast-api": "Quickly create an automatic API CRUD with your Doctrine ORM connection",
+    "lambelcebur/materialize-css-helper": "MaterializeCss Helper integration to Lam",
+    "lambelcebur/mongodb-logger": "MongoDb Logger integration to Lam",
+    "lambelcebur/oauth2-social-client": "Lam extends module from thephpleague/oauth2-client",
+    "lambelcebur/mvc-basic-tools": "Lam tools for controllers,views,helpers, plugins and more ...",
     "nesbot/carbon": "A API extension for DateTime that supports 281 different languages."
   },
   "license": "Apache-2.0",

@@ -1,4 +1,4 @@
-# Lambelcebur-doctrine-orm-resources
+# lambelcebur-doctrine-orm-resources
 DoctrineORMResources
 
 Integrate different modules and provide new resources for DoctrineORM & Lam:
@@ -10,7 +10,7 @@ Integrate different modules and provide new resources for DoctrineORM & Lam:
 
 
 ## See
-- [https://packagist.org/explore/?query=Lambelcebur](https://packagist.org/explore/?query=Lambelcebur)
+- [https://packagist.org/explore/?query=lambelcebur](https://packagist.org/explore/?query=lambelcebur)
 
 ## Installation
 
@@ -18,7 +18,7 @@ Installation of this module uses composer. For composer documentation, please re
 [getcomposer.org](http://getcomposer.org/).
 
 ```sh
-composer require Lambelcebur/doctrine-orm-resources
+composer require lambelcebur/doctrine-orm-resources
 ```
 
 Then add `LamBelcebur\DoctrineORMResources` to your `config/application.config.php`
